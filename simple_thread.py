@@ -18,4 +18,4 @@ with concurrent.futures.ThreadPoolExecutor(max_workers=2) as executor:
     task1.result()
     task2.result()
 
-print("Threads have finished executing. Checking changes on GITHUB")
+print("Threads have finished executing. Checking changes on GITHUB TEST2")
